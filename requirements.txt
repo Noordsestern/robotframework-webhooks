@@ -1,0 +1,4 @@
+robotframework
+fastapi
+uvicorn
+robotframework-requests
